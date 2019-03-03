@@ -1,0 +1,33 @@
+{
+    "first_name": "Olasumbo",
+    "last_name": "Odukoya",
+    "country_of_residence": "UK",
+    "favorite_cars": [
+        {
+            "name": "Toyota Camry",
+            "price": 12345.12,
+            "url": "http://www.toyota.com/camry"
+        },
+        {
+            "name": "Toyota Avensis",
+            "price": "8932.56",
+            "url": "http://www.toyota.com/avensis"
+        }
+    ],
+    "favorite_social_media": [
+        {
+            "description": "twitter",
+            "link": "https://twitter.com/shark"
+        },
+        {
+            "description": "facebook",
+            "link": "https://www.facebook.com/oceanblue"
+        },
+        {
+            "description": "github",
+            "link": "https://github.com/soccer"
+        }
+    ]
+}
+
+
